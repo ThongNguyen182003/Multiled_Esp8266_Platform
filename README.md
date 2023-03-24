@@ -1,19 +1,5 @@
 # Learn esp8266 with me 😍
-1. First ordered list item
-2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.
-
-   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-   To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-   Note that this line is separate, but within the same paragraph.⋅⋅
-   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+1. Pinout of ESP8266
+<img width="422" alt="zz" src="https://user-images.githubusercontent.com/99706301/227479233-c275d7aa-c74a-409c-a1fb-4ad9afff6a65.png">
 # Ket qua 
 
